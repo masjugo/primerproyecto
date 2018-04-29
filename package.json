@@ -1,0 +1,26 @@
+{
+  "name": "batch19",
+  "version": "1.0.0",
+  "description": "Cinta roja",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masjugo/primerproyecto"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "keywords": [
+    "test",
+    "prueba"
+  ],
+  "author": "Julio drm",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16",
+    "request": "2.85.0"
+  }
+  
+}
