@@ -57,11 +57,5 @@ nuevoUsuario("Margarita","Presiendente","MX","ganadora presidencia de la republi
     .catch(err=>console.log(err));
 
 
-/*
-Ejercicio 2
-1.- Hacer una petición a la swapi a un personaje y obtener el nombre de sus películas.
-(https://swapi.co/api/people/1)
-Ejemplo de salida
-[namemovie1,namemovie2]
-*/
+
 
